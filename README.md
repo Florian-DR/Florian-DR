@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🎓 Recent graduate from Le Wagon Web Development (batch #1110)
 
-- 🦦 I’m currently working on Upgreen, a web site which provide green solutions.
+- 🦦 I’m currently working on projects of my own.
 
 - 📫 How to reach me: florian.radigues@gmail.com
 
